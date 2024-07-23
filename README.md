@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a highly motivated individual with a strong passion for Computer Science, eager to continuously learn and grow. With a solid academic background and experience in various projects, I possess excellent problem-solving skills and a collaborative mindset. I thrive in team environments and am committed to staying updated with the latest advancements. I seek opportunities to leverage my skills and make a meaningful impact in a dynamic, forward-thinking environment.
 <!--
 **MArpita18/MArpita18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
